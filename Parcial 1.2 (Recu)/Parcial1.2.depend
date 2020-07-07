@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1589584602 source:/home/rony/D_Ubuntu/Parcialuno/parcialUno/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1590475606 source:/home/rony/D_Ubuntu/Parcialuno/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	"hardcodeoBici.h"
+
+1590167422 /home/rony/D_Ubuntu/Parcialuno/utn.h
+
+1590167496 source:/home/rony/D_Ubuntu/Parcialuno/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1590166965 /home/rony/D_Ubuntu/Parcialuno/hardcodeoBici.h
+
+1593424753 source:/home/rony/D_Ubuntu/Parcial 1.2/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1590167422 /home/rony/D_Ubuntu/Parcial 1.2/utn.h
+
+1594069950 source:/home/rony/D_Ubuntu/Parcial 1.2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	"bicicleta.h"
+	"trabajo.h"
+	"informes.h"
+
+1593564920 /home/rony/D_Ubuntu/Parcial 1.2/hardcodeoBici.h
+
+1593747823 source:/home/rony/D_Ubuntu/Parcial 1.2/bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	"bicicleta.h"
+	"informes.h"
+	"trabajo.h"
+
+1594069950 source:/home/rony/D_Ubuntu/Parcial 1.2/informes.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	"bicicleta.h"
+	"trabajo.h"
+	"informes.h"
+
+1594069966 source:/home/rony/D_Ubuntu/Parcial 1.2/trabajo.c
+	"trabajo.h"
+	"bicicleta.h"
+	"utn.h"
+	"informes.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ctype.h>
+
+1593733762 /home/rony/D_Ubuntu/Parcial 1.2/bicicleta.h
+
+1593502022 source:/home/rony/D_Ubuntu/Parcial 1.2/hardcodeoBici.c
+
+1593732705 /home/rony/D_Ubuntu/Parcial 1.2/trabajo.h
+	"bicicleta.h"
+
+1593736885 /home/rony/D_Ubuntu/Parcial 1.2/informes.h
+	"bicicleta.h"
+	"trabajo.h"
+
+1594083444 source:/home/rony/D_Ubuntu/Parcial 1.2 (Recu)/informes.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	"bicicleta.h"
+	"trabajo.h"
+	"informes.h"
+
+1590167422 /home/rony/D_Ubuntu/Parcial 1.2 (Recu)/utn.h
+
+1594080720 /home/rony/D_Ubuntu/Parcial 1.2 (Recu)/bicicleta.h
+
+1594080567 /home/rony/D_Ubuntu/Parcial 1.2 (Recu)/trabajo.h
+	"bicicleta.h"
+
+1594083741 /home/rony/D_Ubuntu/Parcial 1.2 (Recu)/informes.h
+	"bicicleta.h"
+	"trabajo.h"
+	"direccion.h"
+
+1594083741 source:/home/rony/D_Ubuntu/Parcial 1.2 (Recu)/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	"bicicleta.h"
+	"trabajo.h"
+	"informes.h"
+	"direccion.h"
+
+1594078383 source:/home/rony/D_Ubuntu/Parcial 1.2 (Recu)/trabajo.c
+	"trabajo.h"
+	"bicicleta.h"
+	"utn.h"
+	"informes.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ctype.h>
+
+1593424753 source:/home/rony/D_Ubuntu/Parcial 1.2 (Recu)/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1594083585 source:/home/rony/D_Ubuntu/Parcial 1.2 (Recu)/bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	"bicicleta.h"
+	"informes.h"
+	"trabajo.h"
+	"direccion.h"
+
+1594076698 source:/home/rony/D_Ubuntu/Parcial 1.2 (Recu)/direccion.c
+	"direccion.h"
+	"informes.h"
+
+1594076698 /home/rony/D_Ubuntu/Parcial 1.2 (Recu)/direccion.h
+
